@@ -1,0 +1,10 @@
+/logs
+/logs2
+.DS_STORE
+
+best_model_augmented.pt
+best_model_noaugmented.pt
+best_model_augmented_unfrozen_adam.pt
+best_model_augmented_unfrozen_sgd_momentum.pt
+
+cifar-10-batches-py
