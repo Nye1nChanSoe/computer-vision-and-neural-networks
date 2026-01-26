@@ -7,4 +7,6 @@ best_model_noaugmented.pt
 best_model_augmented_unfrozen_adam.pt
 best_model_augmented_unfrozen_sgd_momentum.pt
 
+best_resnet18_augmented.pt
+
 cifar-10-batches-py
